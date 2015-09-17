@@ -1,0 +1,15 @@
+RSS TextEditor
+
+contains images of cut,copy, paste, save, open, new, and TextEditor.java which contains the code
+
+Implementing simple text editor with options such as
+--new
+--open
+--save
+--cut
+--copy
+--paste
+--font styles-- bold, italics
+--fonts
+
+
